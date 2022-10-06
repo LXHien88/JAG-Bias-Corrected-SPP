@@ -4,6 +4,6 @@ This dataset belongs to the paper: Comparison of Bias-Corrected MultiSatellite P
 
 Daily dataset from 01/01/2016 to 12/2019
 
-DOI: doi.org/10.5281/zenodo.7152013 
+DOI: https://www.doi.org/10.5281/zenodo.7152013
 
 If you have any question, please contact me: lxhien88@gmail.com, hienlx@knu.ac.kr
