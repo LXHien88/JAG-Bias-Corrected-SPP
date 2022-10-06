@@ -1,6 +1,7 @@
 # JAG-Bias-Corrected-SPP
 
 This dataset belongs to the paper: Comparison of Bias-Corrected MultiSatellite Precipitation Products by Deep Learning Framework
+
 Daily dataset from 01/01/2016 to 12/2019
 DOI: 
 
